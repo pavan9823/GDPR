@@ -2,7 +2,7 @@ package com.gdpr.util;
 
 public class Utils {
     public static void main(String[] args) {
-        String input = "[[1,2,3,4],[1,2],[3,4],[0,4],[]]";
+        String input = "[[0,1],[1,0]]";
         String input1 = "[[1,2],[2,3],[5],[0],[5],[],[]]";
 
         input = input.replace("[","{");
